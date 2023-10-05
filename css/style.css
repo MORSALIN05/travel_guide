@@ -52,3 +52,29 @@ body {
     line-height: 93px;
     margin: 0px !important;
 }
+
+.rectangle-radius {
+    width: 116px;
+    height: 123px;
+    background-color: #F5032E;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    /* border: 2px solid red; */
+    /* margin-top: 51px; */
+    /* border-radius: 25px; */
+}
+
+.text-in-rect {
+    font-weight: 500;
+    font-size: 14px;
+    color: #FFF;
+}
+
+.text-in-p {
+    font-weight: 500;
+    font-size: 14px;
+    width: 373px;
+    height: 90px;
+    line-height: 30px;
+    /* color: #FFF; */
+}
